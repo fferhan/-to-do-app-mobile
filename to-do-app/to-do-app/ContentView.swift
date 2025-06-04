@@ -94,7 +94,7 @@ struct OnboardingView: View {
     var body: some View {
         VStack(spacing: 24) {
             Spacer()
-            Text("📝 To-Do App'e Hoş Geldin!")
+            Text("📝 To-Do App'e Hoş Geldiniz!")
                 .font(.largeTitle)
                 .bold()
                 .multilineTextAlignment(.center)
